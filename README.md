@@ -1,0 +1,1 @@
+# cypress-plugin-rerun-fail-test
